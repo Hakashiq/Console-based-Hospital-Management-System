@@ -25,20 +25,6 @@ View appointments by doctor
 View appointments by patient
 Cancel appointments
 
-🗂️ Project Structure
-/src
- ├── models/
- │    ├── Doctor.java
- │    ├── Patient.java
- │    └── Appointment.java
- ├── services/
- │    ├── DoctorService.java
- │    ├── PatientService.java
- │    └── AppointmentService.java
- ├── utils/
- │    └── InputUtils.java
- └── Main.java
-
 🛠️ Tech Used
 Java 17+
 OOP Concepts
